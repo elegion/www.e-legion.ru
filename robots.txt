@@ -1,8 +1,2 @@
 User-Agent: *
-Disallow:
-
-User-Agent: Yandex
-Disallow:
-Host: www.e-legion.ru
-
-Sitemap: https://www.e-legion.ru/sitemap.xml
+Disallow: /
